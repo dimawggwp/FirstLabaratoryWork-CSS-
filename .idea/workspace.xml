@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0aabe9b-47db-4c2d-bc48-de677f77ffea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1st labaratory.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1st labaratory.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab01.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/qwerty.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
